@@ -14,5 +14,5 @@ Hardware Requirements:
 *I'll add a wiring diagram later when I get a chance to make one* 
 
 Software Requirements:
-- [Prismatik](https://lightpack.tv/pages/downloads] controls the responsive light mode (Disclaimer: I've only ever been able to get Prismatic to function correctly on a Windows computer, they have a Mac version but I couldn't get it to work rip)
+- [Prismatik](https://lightpack.tv/pages/downloads) controls the responsive light mode (Disclaimer: I've only ever been able to get Prismatic to function correctly on a Windows computer, they have a Mac version but I couldn't get it to work rip)
 
